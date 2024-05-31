@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/NL2TjK2z)
+# 软件过程与项目管理实验1
+
+本项目用于完成软件过程与项目管理实验1下的内容
+
+现在正在执行R3，对项目当中的markdown文件编辑后，在git客户端内调用命令查看项目文件的变化。
